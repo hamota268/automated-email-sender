@@ -7,5 +7,5 @@
 # It's simple and user friendly
 ## The project is not made specifically for advanced users but for all and all it needs is just some inputs
 
-#nOtE
+# nOtE
 ## This project does NOT work with accounts that have 2FA.
