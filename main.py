@@ -1,3 +1,7 @@
+"""
+Created by Youssef Mohamed @ computer science.
+"""
+
 import smtplib
 import time
 
